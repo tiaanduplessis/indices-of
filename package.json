@@ -10,7 +10,14 @@
   "homepage": "https://github.com/tiaanduplessis/indices-of",
   "bugs": "https://github.com/tiaanduplessis/indices-of",
   "main": "index.js",
-
+  "keywords": [
+    "array",
+    "indexes",
+    "indices",
+    "index-of",
+    "indices-of",
+    "indexes-of"
+  ],
   "files": [
     "index.js"
   ],
