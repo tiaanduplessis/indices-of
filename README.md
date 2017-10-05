@@ -55,6 +55,8 @@
 
 ## Install
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tiaanduplessis/indices-of.svg)](https://greenkeeper.io/)
+
 ```sh
 $ npm install indices-of
 # OR
